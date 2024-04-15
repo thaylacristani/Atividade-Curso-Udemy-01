@@ -1,0 +1,14 @@
+C:\Users\thayl\OneDrive\Documents\estrutura sequencial 1.1\obj\Debug\net8.0\estrutura sequencial 1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thayl\OneDrive\Documents\estrutura sequencial 1.1\obj\Debug\net8.0\estrutura sequencial 1.1.AssemblyInfoInputs.cache
+C:\Users\thayl\OneDrive\Documents\estrutura sequencial 1.1\obj\Debug\net8.0\estrutura sequencial 1.1.AssemblyInfo.cs
+C:\Users\thayl\OneDrive\Documents\estrutura sequencial 1.1\obj\Debug\net8.0\estrutura sequencial 1.1.csproj.CoreCompileInputs.cache
+C:\Users\thayl\OneDrive\Documents\estrutura sequencial 1.1\bin\Debug\net8.0\estrutura sequencial 1.1.exe
+C:\Users\thayl\OneDrive\Documents\estrutura sequencial 1.1\bin\Debug\net8.0\estrutura sequencial 1.1.deps.json
+C:\Users\thayl\OneDrive\Documents\estrutura sequencial 1.1\bin\Debug\net8.0\estrutura sequencial 1.1.runtimeconfig.json
+C:\Users\thayl\OneDrive\Documents\estrutura sequencial 1.1\bin\Debug\net8.0\estrutura sequencial 1.1.dll
+C:\Users\thayl\OneDrive\Documents\estrutura sequencial 1.1\bin\Debug\net8.0\estrutura sequencial 1.1.pdb
+C:\Users\thayl\OneDrive\Documents\estrutura sequencial 1.1\obj\Debug\net8.0\estrutura sequencial 1.1.dll
+C:\Users\thayl\OneDrive\Documents\estrutura sequencial 1.1\obj\Debug\net8.0\refint\estrutura sequencial 1.1.dll
+C:\Users\thayl\OneDrive\Documents\estrutura sequencial 1.1\obj\Debug\net8.0\estrutura sequencial 1.1.pdb
+C:\Users\thayl\OneDrive\Documents\estrutura sequencial 1.1\obj\Debug\net8.0\estrutura sequencial 1.1.genruntimeconfig.cache
+C:\Users\thayl\OneDrive\Documents\estrutura sequencial 1.1\obj\Debug\net8.0\ref\estrutura sequencial 1.1.dll
